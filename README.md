@@ -1,4 +1,2 @@
-JavaScriptPachiSlot
-CommitTest
-kaigyoutest
-test2
+
+JavaScriptPachiSlot Project
