@@ -1,4 +1,1 @@
 JavaScriptPachiSlot
-CommitTest
-kaigyoutest
-test2
