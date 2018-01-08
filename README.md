@@ -1,3 +1,2 @@
 
 JavaScriptPachiSlot Project
-test
