@@ -1,1 +1,2 @@
-JavaScriptPachiSlot
+
+JavaScriptPachiSlot Project
